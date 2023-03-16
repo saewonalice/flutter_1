@@ -1,12 +1,12 @@
-import 'dart:io';
-import 'package:aiia/add_image/add_image.dart';
+//import 'dart:io';
+//import 'package:aiia/add_image/add_image.dart';
 import 'package:flutter/material.dart';
 import 'package:aiia/config/palette.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:aiia/screens/chat_screen.dart';
 import 'package:modal_progress_hud_nsn/modal_progress_hud_nsn.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firebase_storage/firebase_storage.dart';
+//import 'package:firebase_storage/firebase_storage.dart';
 
 class LoginSignupScreen extends StatefulWidget {
   const LoginSignupScreen({Key? key}) : super(key: key);
