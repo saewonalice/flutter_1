@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548228108837",
+    "project_id": "aiia-chatapp",
+    "storage_bucket": "aiia-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548228108837:android:9441dbe93070a9f6b265cc",
+        "android_client_info": {
+          "package_name": "com.example.aiia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548228108837-9f1fnqvtjku34io0376jn8ls0vt77ale.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS_KrtqcutqNxKw-M8viGCocEnXERBLqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548228108837-9f1fnqvtjku34io0376jn8ls0vt77ale.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
